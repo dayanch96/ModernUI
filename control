@@ -1,0 +1,9 @@
+Package: com.dvntm.modernui
+Name: ModernUI
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: iPhone X-style gestures for home button iPhones on iOS 13+
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 13)
